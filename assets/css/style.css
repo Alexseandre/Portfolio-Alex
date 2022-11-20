@@ -63,7 +63,7 @@ a:hover,a:active,a:focus{
 /////////////////////////////////////////////////////////////////////*/
 
 header{
-	background: url(../images/dev.webp) no-repeat;
+	background: url(../images/dev.jpg) no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: 50% -50px;
@@ -618,7 +618,7 @@ footer {
 @media all and (max-width: 991px) {
 
 	header{
-		background: url(../images/bg-small.jpg) no-repeat;
+		background: url(../images/dev.jpg) no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: 50% -50px;
