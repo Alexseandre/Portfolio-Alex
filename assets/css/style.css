@@ -618,7 +618,7 @@ footer {
 @media all and (max-width: 991px) {
 
 	header{
-		background: url(../images/dev.jpg) no-repeat;
+		background: url(../images/dev.jpg) no-repeat cover;
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: 50% -50px;
