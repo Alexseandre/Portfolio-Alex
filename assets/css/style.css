@@ -247,7 +247,26 @@ header{
 
 
 #portfolio {
-    padding: 80px 0px 0px 0px;
+    display: flex;
+}
+.container-alex {
+	display: flex;
+	flex-wrap: wrap;
+}
+.card {
+	height: 100%;
+
+	border: solid 1px rgb(156, 150, 150);
+	margin: 15px;
+	width: 30%;
+	display: flex;
+}
+.card:hover {
+	transform: scale(1.05);
+}
+.img-alex img {
+	width: 100%;
+
 }
 
 .port {
