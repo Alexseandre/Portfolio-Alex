@@ -160,12 +160,11 @@ google.maps.event.addDomListener(window, "load", initialize);
 
 const target = document.getElementById("target");
 let array = [
-  "Informatique",
-  "Motivé",
-  "HelpDesk",
-  "Determiné",
-  "Front-end développeur web",
-  "D'application",
+  "informatique",
+  "motivé",
+  "helpDesk",
+  "determiné",
+  "de proximité",
 ];
 let wordIndex = 0;
 let letterIndex = 0;
